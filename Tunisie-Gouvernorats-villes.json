@@ -1,0 +1,99 @@
+[
+ {
+  "nom":"Ariana",
+  "villes":["La Soukra","Ariana","Raoued","Mnihla","Ettadhamen","Kalâat el-Andalous","Sidi Thabet"]
+ },
+ {
+  "nom":"Béja",
+  "villes":["Béja","Ouchtata-Jmila","Medjez el-Bab","Testour","Téboursouk","Thibar","Sidi Ismaïl","El Maâgoula","Slouguia","Nefza","Amdoun","Goubellat"]
+ },
+ {
+  "nom":"Ben Arous",
+  "villes":["Ben Arous","Bou Mhel El Bassatine","El Mourouj","Ezzahra","Fouchana","Hammam Chatt","Hammam Lif","Megrine","Mohamadia","Mornag","Nouvelle Medina","Rades"]
+ },
+ {
+  "nom":"Bizerte",
+  "villes":["Bizerte Nord","Bizerte Sud","El Alia","Ghar El Melh","Ghezala","Jarzouna","Joumine","Mateur","Menzel Bourguiba","Menzel Jemil","Ras Jebel","Sejnane","Tinja","Utique"]
+ },
+ {
+  "nom":"Gabés",
+  "villes":["El Hamma","El Metouia","Gabes Medina","Gabés Ouest","Gabés Sud","Ghannouche","Mareth","Matmata","Menzel Habib","Nouvelle Matmata"]
+ },
+ {
+  "nom":"Gafsa",
+  "villes":["Belkhir","El Guettar","El Ksar","El Mdhilla","Gafsa Nord","Gafsa Sud","Metlaoui","Moulares","Redeyef","Sidi Aich","Sned"]
+ },
+ {
+  "nom":"Jendouba",
+  "villes":["Ain Draham","Balta Bou Aouene","Bou Salem","Fernana","Ghardimaou","Jendouba","Jendouba Nord","Oued Mliz","Tabarka"]
+ },
+ {
+  "nom":"Kairouan",
+  "villes":["Bou Hajla","Chebika","Cherarda","El Ala","Haffouz","Hajeb El Ayoun","Kairouan Nord","Kairouan Sud","Nasrallah","Sbikha"]
+ },
+ {
+  "nom":"Kasserine",
+  "villes":["El Ayoun","Ezzouhour","Feriana","Foussana","Haidra","Hassi El Frid","Jediliane","Kasserine Nord","Kasserine Sud","Mejel Bel Abbes", "Sbeitla","Sbiba","Thala"]
+ },
+ {
+  "nom":"Kébili",
+  "villes":["Douz","El Faouar", "Kebili Nord","Kebili Sud","Souk El Ahad"]
+ },
+ {
+  "nom":"Le Kef",
+  "villes":["Dahmani","El Ksour","Jerissa","Kalaa El Khasba","Kalaat Sinane","Le Kef Est","Le Kef Ouest","Le Sers","Nebeur","Sakiet Sidi Youssef","Tajerouine","Touiref"]
+ },
+ {
+  "nom":"Mahdia",
+  "villes":["Bou Merdes","Chorbane","El Jem","Hbira","Ksour Essaf","La Chebba","Mahdia",
+  "Melloulech","Ouled Chamakh","Sidi Alouene","Souassi"]
+ },
+ {
+  "nom":"La Manouba",
+  "villes":["Borj El Amri","Douar Hicher","El Battan","Jedaida","Mannouba","Mornaguia","Oued Ellil","Tebourba"]
+ },
+ {
+  "nom":"Medenine",
+  "villes":["Ajim","Ben Guerdane","Beni Khedache","Houmet Essouk","Medenine Nord","Medenine Sud","Midoun","Sidi Makhlouf","Zarzis"]
+ },
+ {
+  "nom":"Monastir",
+  "villes":["Bekalta","Bembla","Beni Hassen","Jemmal","Ksar Helal","Ksibet El Mediouni","Moknine","Monastir","Ouerdanine","Sahline","Sayada","Lamta","Bou Hajar","Teboulba","Zeramdine"]
+ },
+ {
+  "nom":"Nabeul",
+  "villes":["Beni Khalled","Beni Khiar","Bou Argoub","Dar Chaabane Elfehri","El Haouaria","El Mida","Grombalia","Hammam El Ghezaz","Hammamet","Kelibia","Korba","Menzel Bouzelfa","Menzel Temime","Nabeul","Soliman","Takelsa"]
+ },
+ {
+  "nom":"Sfax",
+  "villes":["Agareb","Bir Ali Ben Khelifa","El Amra","El Hencha","Esskhira","Ghraiba","Jebeniana","Kerkenah","Mahras","Menzel Chaker","Sakiet Eddaier","Sakiet Ezzit","Sfax Est","Sfax Sud","Sfax Ville"]
+ },
+ {
+  "nom":"Sidi Bouzid",
+  "villes":["Ben Oun","Bir El Haffey","Cebbala","Jilma","Maknassy","Menzel Bouzaiene","Mezzouna","Ouled Haffouz","Regueb","Sidi Bouzid Est","Sidi Bouzid Ouest","Souk Jedid"]
+ },
+ {
+  "nom":"Siliana",
+  "villes":["Bargou","Bou Arada","El Aroussa","Gaafour","Kesra","Le Krib","Makthar","Rohia","Sidi Bou Rouis","Siliana Nord","Siliana Sud"]
+ },
+ {
+  "nom":"Sousse",
+  "villes":["Akouda","Bou Ficha","Enfidha","Hammam Sousse","Hergla","Kalaa El Kebira","Kalaa Essghira","Kondar","Msaken","Sidi Bou Ali","Sidi El Heni","Sousse Jaouhara","Sousse Riadh","Sousse Ville"]
+ },
+ {
+  "nom":"Tataouine",
+  "villes":["Bir Lahmar","Dhehiba","Ghomrassen","Remada","Smar","Tataouine Nord","Tataouine Sud"]
+ },
+ {
+  "nom":"Tozeur",
+  "villes":["Degueche","Hezoua","Nefta","Tameghza","Tozeur"]
+ },
+ {
+  "nom":"Tunis",
+  "villes":["Bab Bhar","Bab Souika","Carthage","Cite El Khadra","El Hrairia","El Kabbaria","El Kram","El Menzah","El Omrane","El Omrane Superieur","El Ouerdia","Essijoumi","Ettahrir","Ezzouhour","Jebel Jelloud","La Goulette","La Marsa","La Medina","Le Bardo","Sidi El Bechir","Sidi Hassine"]
+ },
+ {
+  "nom":"Zaghouan",
+  "villes":["Bir Mcherga","El Fahs","Ennadhour","Hammam Zriba","Saouef","Zaghouan"]
+ }
+]
